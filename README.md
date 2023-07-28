@@ -4,7 +4,7 @@ A simple UI that utilizes buttons and nav links to help a customer book an appoi
 
 
 
-# Home-Sreen
+# Home-Screen
 With the common funtionalities of the buttons this UI cam be used on any complex UI structure and can be subject to change.
 
 
